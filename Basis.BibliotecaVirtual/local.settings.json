@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_INPROC_NET8_ENABLED": "1",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "DefaultConnection": "Server=PC-RIZZI;Database=basisdb;User Id=Basis;TrustServerCertificate=True;"
+    //"DefaultConnection": "Server=localhost;Database=basisdb;User Id=Basis;Password=basis;TrustServerCertificate=True;"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
